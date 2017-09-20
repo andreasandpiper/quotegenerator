@@ -1,0 +1,64 @@
+body {
+background-color: #ffb347;  /* fallback for old browsers */
+background-color: : -webkit-linear-gradient(to right, #ffcc33, #ffb347);  /* Chrome 10-25, Safari 5.1-6 */
+background-color: linear-gradient(to right, #ffcc33, #ffb347); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Francois One', sans-serif;
+box-sizing: border-box;
+}
+
+
+button {
+  margin-bottom: 40px;
+  background-color: #bfd3d8;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 40px;
+  margin-bottom: 35px;
+}
+
+h6 {
+  padding-top: 15px;
+  display: inline;
+  margin-left: 45%;
+}
+
+p {
+  display: inline;
+}
+
+i {
+  margin-top: 90%;
+}
+
+img {
+  height: 30px;
+  display: inline;
+}
+
+footer {
+  padding: 30px;
+}
+
+.container {
+  background-color: #FFF;
+  margin-top: 6em;
+  box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.2);
+}
+
+.col-8 {
+  text-align: center;
+
+}
+
+.fa-quote-left {
+  margin-left: 100%;
+}
+
+.quote {
+  margin-top: 40px;
+  height: 150px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
