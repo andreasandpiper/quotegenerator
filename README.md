@@ -1,3 +1,1 @@
-# randomquotegenerator
-# randomquotegenerator
 # quotegenerator
